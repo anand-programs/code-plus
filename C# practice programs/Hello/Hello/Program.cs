@@ -23,21 +23,20 @@ namespace Hello
         static string GetDay(int year, int month, int day)
         {
             int yearIndex, monthIndex = 0, dayIndex;
-            string dayName = "this";
 
-            //yearIndex = year * 365 + year / 4 - year / 100 + year / 400;
+            //calculating number of days till the previous year
             yearIndex = (year - 1) * 365 + (year - 1) / 4 - (year - 1) / 100 + (year - 1) / 400;
             
             for(int i = 1; i < month; i++)
             {
                 monthIndex += 30;
 
-                if((i <= 7 && i % 2 == 1) || (i > 7 && i % 2 == 0))
+                if((i <= 7 && i % 2 == 1) || (i > 7 && i % 2 == 0)) //months with 31 days
                 {
                     monthIndex++;
                 }
 
-                if(i == 2)
+                if(i == 2)                      //february
                 {
                     monthIndex -= 2;
 
@@ -57,38 +56,39 @@ namespace Hello
                     
                 }
             }
-
+            
             dayIndex = (yearIndex + monthIndex + day) % 7;
 
+            string dayName = "this";    //not assigning a value leads to error
 
             switch (dayIndex)
             {
                 case 0:
-                dayName = "Friday";
-                break;
-
-                case 1:
-                dayName = "Saturday";
-                break;
-
-                case 2:
                 dayName = "Sunday";
                 break;
 
-                case 3:
+                case 1:
                 dayName = "Monday";
                 break;
 
-                case 4:
+                case 2:
                 dayName = "Tueday";
                 break;
 
-                case 5:
+                case 3:
                 dayName = "Wednesday";
                 break;
 
-                case 6:
+                case 4:
                 dayName = "Thursday";
+                break;
+
+                case 5:
+                dayName = "Friday";
+                break;
+
+                case 6:
+                dayName = "Satday";
                 break;
             }
 
