@@ -1,0 +1,12 @@
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.exe
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.deps.json
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.json
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.dev.json
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.pdb
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfo.cs
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.pdb
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.genruntimeconfig.cache
