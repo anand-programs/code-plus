@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C_sharp_programs
+namespace NewCSharpCodes
 {
     class Program
     {

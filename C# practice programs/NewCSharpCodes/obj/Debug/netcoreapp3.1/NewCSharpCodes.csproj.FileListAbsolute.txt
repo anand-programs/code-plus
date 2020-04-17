@@ -1,0 +1,12 @@
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\bin\Debug\netcoreapp3.1\NewCSharpCodes.exe
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\bin\Debug\netcoreapp3.1\NewCSharpCodes.deps.json
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\bin\Debug\netcoreapp3.1\NewCSharpCodes.runtimeconfig.json
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\bin\Debug\netcoreapp3.1\NewCSharpCodes.runtimeconfig.dev.json
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\bin\Debug\netcoreapp3.1\NewCSharpCodes.dll
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\bin\Debug\netcoreapp3.1\NewCSharpCodes.pdb
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\obj\Debug\netcoreapp3.1\NewCSharpCodes.csproj.CoreCompileInputs.cache
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\obj\Debug\netcoreapp3.1\NewCSharpCodes.AssemblyInfoInputs.cache
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\obj\Debug\netcoreapp3.1\NewCSharpCodes.AssemblyInfo.cs
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\obj\Debug\netcoreapp3.1\NewCSharpCodes.dll
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\obj\Debug\netcoreapp3.1\NewCSharpCodes.pdb
+C:\Users\dhanabal\Documents\code-plus\C# practice programs\NewCSharpCodes\obj\Debug\netcoreapp3.1\NewCSharpCodes.genruntimeconfig.cache
